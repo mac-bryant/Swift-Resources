@@ -2,23 +2,16 @@
 
 ***INSERT GRAPHIC HERE (include hyperlink in image)***
 
-# Repository Title Goes Here
+# Swift Resources
 
-> Subtitle or Short Description Goes Here
+> Getting Started
 
-> ideally one sentence
+> Tutorials
 
-> include terms/tags that can be searched
+> SwiftML
 
-**Badges will go here**
+**iOS Resources**
 
-- build status
-- issues (waffle.io maybe)
-- devDependencies
-- npm package
-- coverage
-- slack
-- downloads
-- gitter chat
-- license
-- etc.
+- Paul Hudson
+- Ray Wenderlich
+- WWCode Mobile
