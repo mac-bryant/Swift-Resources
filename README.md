@@ -4,6 +4,9 @@
 
 > SwiftML
 
+> SwiftUI
+- [Stanford: CS193p, Developing Applications for iOS using SwiftUI](https://www.youtube.com/playlist?list=PLpGHT1n4-mAtTj9oywMWoBx0dCGd51_yG "Stanford: CS193p, Developing Applications for iOS using SwiftUI")
+
 > Swift for TensorFlow
 - [Model Training Walkthrough
 ](https://www.tensorflow.org/swift/tutorials/model_training_walkthrough "Model Training Walkthrough")
